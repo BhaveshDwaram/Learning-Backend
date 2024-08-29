@@ -1,0 +1,23 @@
+// This document repersents the task required to full fill by rest api
+
+
+
+// www.mockaroo.com for getting fake data in json form
+
+
+GET/users --> list all the users, renders in HTML form
+GET/api/users --> list all the users , renders in JSON form
+
+GET/api/users/1--->Get the user with id 1
+GET/api/users/2--->Get the user with id 2
+
+
+Dynamic Path Parameters
+
+GET/api/users/:id  -->(The colon before id says it makes it as variable.) Get the user with id 
+
+POST/api/users ---> create new users
+
+PATCH/api/users/:id---> Update the user wit userid= id
+
+DELETE/api/users/:id---> Delete the user wit userid= id

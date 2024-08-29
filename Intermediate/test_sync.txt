@@ -1,0 +1,1 @@
+This is a test file created using writeFileSync.If i run again it will rewrite the original contentThis is the current date : 23
